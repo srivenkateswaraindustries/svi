@@ -479,6 +479,20 @@ body {
 	padding: 0;
 	width: 585px;
 }
+#body .content img {
+    width: 600px;
+    height: 300px;
+    border: 2px;
+
+
+}
+#body .content .pram img {
+    width: 900px;
+    height: 900px;
+    border: 2px;
+    margin:10px 0;
+
+}
 #body .content h3 {
 	padding-bottom: 25px;
 	padding-left: 0;
