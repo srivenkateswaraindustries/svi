@@ -482,7 +482,7 @@ body {
 #body .content img {
     width: 600px;
     height: 300px;
-    border: 2px;
+    border: 2px solid blue;
     margin: 10px 40%;
 
 
@@ -490,7 +490,7 @@ body {
 #body .content .pram img {
     width: 900px;
     height: 900px;
-    border: 2px;
+    border: 2px solid black;
     margin:10px 0;
 
 }
